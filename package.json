@@ -1,0 +1,35 @@
+{
+  "name": "object-summary-viewer",
+  "version": "1.0.31",
+  "description": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "@sevone/insight-connect": "3.3.0-beta.4",
+    "@sevone/insight-wdk": "2.2.0-beta.9"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.9.0",
+    "@babel/preset-typescript": "7.6.0",
+    "@sevone/insight-connect": "3.3.0-beta.4",
+    "@sevone/insight-wdk": "2.2.0-beta.9",
+    "@types/lodash-es": "4.17.3",
+    "@types/react": "16.9.41",
+    "@types/styled-components": "4.1.20",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.1.0",
+    "typescript": "3.9.5"
+  },
+  "dependencies": {
+    "@sevone/insight-charts": "^0.12.16",
+    "@sevone/insight-connect": "^3.3.0-beta.9",
+    "@sevone/insight-wdk": "2.2.0-beta.1",
+    "@sevone/scratch": "^1.70.0",
+    "lodash-es": "4.17.15",
+    "moment-timezone": "0.5.31",
+    "react": "^17.0.1",
+    "react-table": "^7.6.0",
+    "styled-components": "4.4.1",
+    "svg-inline-react": "^3.2.0"
+  }
+}
